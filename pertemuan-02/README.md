@@ -7,6 +7,6 @@ Dira Ardini<br>
 belajar:
 <ol>
   <li>emmet untuk struktur html5<li>
-  <li>emmet untuk header+main+footerli<li>
-  <li>emmet untuk header yaitu hv>ul>li1+na*3>a</li>
+  <li>emmet untuk header+main+footer<li>
+  <li></li>
 </ol>
