@@ -6,7 +6,7 @@ Dira Ardini<br>
 <br>
 belajar:
 <ol>
-  <li>emmet untuk struktur html5<li>
-  <li>emmet untuk header+main+footer<li>
+  <li><li>
+  <li><li>
   <li></li>
 </ol>
