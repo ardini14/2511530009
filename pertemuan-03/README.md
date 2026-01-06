@@ -1,8 +1,11 @@
 # pertemuan-03
 
 Nim : 2511530009<br>
-Nama : Dira Ardini <br><br>
+Nama : Dira Ardini <br>
 Hari, Kamis 14 September 2006<br>
 Hobi memasak<br>
 Pasangan, Belum Ada<br>
 Pekerjaan, mahasiswa<br>
+<ol>
+    <li>menggunakan file emmet.html pertemuan-02 untuk file index.html pertemuan-03</li>
+</ol>
