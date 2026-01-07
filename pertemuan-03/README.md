@@ -9,4 +9,5 @@ Pekerjaan, mahasiswa<br>
 <ol>
     <li>menggunakan file emmet.html pertemuan-02 untuk file index.html pertemuan-03</li>
     <li>membuat struktur from untuk section contact</li>
+    <li>styling selector ID #about</li>
 </ol>
