@@ -13,5 +13,6 @@ Pekerjaan, mahasiswa<br>
     <li>styling selector ID #about elemen h2<li>
     <li>styling selector ID #about elemen p</li>
     <li>styling selector ID #about elemen strong</li>
+    <li>styling selector ID #about mode responsif (mobile)</li>
 
 </ol>
