@@ -20,4 +20,5 @@ Pekerjaan, mahasiswa<br>
     <li>section#contact styling label<li>
     <li>section#contact styling label>span</li>
     <li>section#contact styling input dan textarea</li>
+    <li>section#contact styling tombol</li>
 </ol>
